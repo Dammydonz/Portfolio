@@ -66,4 +66,3 @@ CV</a></td>
 <td>🔗</td>
 <td><a href="https://linkedin.com/in/osanyinbidamiloju">View My LinkedIn Profile</a></td>
 </tr>
-
