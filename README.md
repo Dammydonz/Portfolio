@@ -41,8 +41,6 @@ in the death of 1502 out of 2224 passengers and crew.
 the Report here (pdf file)</a>
 ## CONTACT DETAILS
 *Let’s connect and see how we can make a difference together!*
-<table>
-<tbody>
 <tr>
 <td>📧</td>
 <td><a
