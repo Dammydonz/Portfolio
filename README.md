@@ -6,12 +6,16 @@ In addition to my work in data analytics, I am a professional audio-visual engin
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 *As a Data Analyst at Pricepally, I provide actionable insights and innovative solutions for business growth.*
+
 **- ✅ Analyze Complex Data.**
 Interpret datasets using statistical and machine learning techniques to identify trends and provide actionable recommendations.
+
 **- ✅ Build Automated Solutions.**
-Streamline data workflows through Python scripting and tools like Google AppSheet, reducing manual processes by up to 85%..
+Streamline data workflows through Python scripting and tools like Google AppSheet, reducing manual processes by up to 85%.
+
 **- ✅ Create Dynamic Dashboards.**
 Design visualization dashboards in Metabase, Power BI, and Google Sheets to support decision-making for cross-functional teams.
+
 **- ✅ Loggistics Analysis.**
 Reduce costs and improve efficiency, as demonstrated by my work at Pricepally, where I cut operational losses by 74%.
 <!--Section 2: List 3-4 key projects-->
