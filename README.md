@@ -16,10 +16,10 @@ Streamline data workflows through Python scripting and tools like Google AppShee
 **- ✅ Create Dynamic Dashboards.**
 Design visualization dashboards in Metabase, Power BI, and Google Sheets to support decision-making for cross-functional teams.
 
-**- ✅ Loggistics Analysis.**
+**- ✅ Logistics Analysis.**
 Reduce costs and improve efficiency, as demonstrated by my work at Pricepally, where I cut operational losses by 74%.
 <!--Section 2: List 3-4 key projects-->
-## MY PORJECTS
+## MY PROJECTS
 *A glimpse of some of the projects I've been working on.*
 **Competitor Price Tracking App.**
 ![image](1 anietie etuk data analytics car project.jpeg)
@@ -64,7 +64,7 @@ CV</a></td>
 </tr>
 <tr>
 <td>🔗</td>
-<td><a href="https://linkedin.com/in/osanyinbidamiloju">TView My LinkedIn Profile</a></td>
+<td><a href="https://linkedin.com/in/osanyinbidamiloju">View My LinkedIn Profile</a></td>
 </tr>
 /tbody>
 </table>
