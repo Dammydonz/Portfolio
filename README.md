@@ -7,16 +7,16 @@ In addition to my work in data analytics, I am a professional audio-visual engin
 ## WHAT I DO
 *As a Data Analyst at Pricepally, I provide actionable insights and innovative solutions for business growth.*
 
-**- ✅ Analyze Complex Data.**
+**✅ Analyze Complex Data.**
 Interpret datasets using statistical and machine learning techniques to identify trends and provide actionable recommendations.
 
-**- ✅ Build Automated Solutions.**
+**✅ Build Automated Solutions.**
 Streamline data workflows through Python scripting and tools like Google AppSheet, reducing manual processes by up to 85%.
 
-**- ✅ Create Dynamic Dashboards.**
+**✅ Create Dynamic Dashboards.**
 Design visualization dashboards in Metabase, Power BI, and Google Sheets to support decision-making for cross-functional teams.
 
-**- ✅ Logistics Analysis.**
+**✅ Logistics Analysis.**
 Reduce costs and improve efficiency, as demonstrated by my work at Pricepally, where I cut operational losses by 74%.
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
@@ -41,6 +41,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting
 in the death of 1502 out of 2224 passengers and crew.
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download
 the Report here (pdf file)</a>
+
 ## CONTACT DETAILS
 *Let’s connect and see how we can make a difference together!*
 <table>
