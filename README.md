@@ -1,8 +1,8 @@
-<!--Section 1: Introduce your self-->
+<!--Section 1: Introduce yourself -->
 ## ABOUT ME
 Hello! I am Damiloju Osanyinbi, an experienced Data Analyst passionate about transforming data into actionable insights and optimizing business processes. With over two years of professional experience, I specialize in predictive modeling, cost analysis, and data visualization using tools like SQL, Python, and Excel.
 
-In addition to my work in data analytics, I am a professional audio-visual engineer by hobby, with nearly a decade of experience. I have honed my expertise in sound and media systems, combining creativity and technical skills to deliver exceptional audio-visual experiences. Whether in data or sound, I am driven by the desire to innovate, solve problems, and deliver impactful solutions. Let’s connect to create meaningful projects together!
+In addition to my work in data analytics, I am a professional audio-visual engineer by hobby, with nearly a decade of experience. I have honed my sound and media systems expertise, combining creativity and technical skills to deliver exceptional audio-visual experiences. Whether in data or sound, I desire to innovate, solve problems, and provide impactful solutions. Let’s connect to create meaningful projects together!
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 *As a Data Analyst at Pricepally, I provide actionable insights and innovative solutions for business growth.*
@@ -32,7 +32,6 @@ Impact: Enabled dynamic pricing strategies and improved market positioning.
 ![image](2 anietie etuk data analytics sales project.jpg)
 On April 15, 1912, during her maiden voyage, the widely considered
 “unsinkable” RMS Titanic sank after colliding with an iceberg.
-
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesistesting-
 using-titanic-dataset-anietie/)
 
