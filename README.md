@@ -21,11 +21,13 @@ Reduce costs and improve efficiency, as demonstrated by my work at Pricepally, w
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 *A glimpse of some of the projects I've been working on.*
+
 **Competitor Price Tracking App.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 Description: Built a Google AppSheet app integrating a database of over 2,000 FMCG items for real-time competitor analysis.
 Skills Used: Google AppSheet, Google Sheets
 Impact: Enabled dynamic pricing strategies and improved market positioning.
+
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](2 anietie etuk data analytics sales project.jpg)
 On April 15, 1912, during her maiden voyage, the widely considered
@@ -33,6 +35,7 @@ On April 15, 1912, during her maiden voyage, the widely considered
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesistesting-
 using-titanic-dataset-anietie/)
+
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](3 anietie etuk data analytics agro project.jpg)
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting
