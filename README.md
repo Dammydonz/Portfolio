@@ -62,7 +62,7 @@ href="mailto:dammytheanalyst@gmail.com">dammytheanalyst@gmail.com</a></td>
 <tr>
 <td>📂</td>
 <td><a
-href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
+href="Oluwadamiloju-David-Osanyinbi New.pdf">Download my
 CV</a></td>
 </tr>
 <tr>
